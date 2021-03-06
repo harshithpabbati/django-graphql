@@ -1,0 +1,15 @@
+boto3==1.16.49
+chowkidar-graphene==0.6.5
+cryptography==3.4.6
+Django==3.1.6
+django-allow-cidr==0.3.1
+django-ckeditor==5.7.1
+django-ipware==3.0.2
+environs==9.3.0
+graphene-django==2.15.0
+PyJWT==2.0.1
+py3-validate-email==0.2.15
+redis==3.5.3
+requests==2.25.1
+social-auth-app-django==4.0.0
+social-auth-core==4.0.3

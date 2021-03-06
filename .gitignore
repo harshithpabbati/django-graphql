@@ -1,0 +1,21 @@
+# created by virtualenv automatically
+
+.idea
+bin
+lib
+db.sqlite3
+
+framework/__pycache__/**
+user/graphql/__pycache__/**
+framework/graphql/__pycache__/
+framework/utils/__pycache__/
+framework/utils/cornflakes/__pycache__/
+user/__pycache__/
+user/graphql/inputs/__pycache__/
+user/graphql/mutation/__pycache__/
+user/graphql/query/__pycache__/
+user/graphql/types/__pycache__/
+user/migrations/__pycache__/
+user/utils/__pycache__/
+graphiql.html/
+pyvenv.cfg
